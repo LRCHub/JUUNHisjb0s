@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Pogo",
+  "base_artist": "Digitalism",
+  "createdAt": "2026-03-27T11:37:25.377717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pogo",
+      "artist": "Digitalism",
+      "has_synced": true,
+      "path": "select/01_Pogo_Digitalism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pogo - Digitalism's Pogo Robotic Remix",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/02_Pogo_-_Digitalism's_Pogo_Robotic_Remix_Digitalism.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pogo (Shinichi Osawa Remix)",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/03_Pogo_(Shinichi_Osawa_Remix)_Digitalism.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Disco Pogo",
+      "artist": "Die Atzen feat. Jimmy Pop",
+      "has_synced": false,
+      "path": "select/04_Disco_Pogo_Die_Atzen_feat._Jimmy_Pop.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pogo Dancing",
+      "artist": "Chris Spedding",
+      "has_synced": false,
+      "path": "select/05_Pogo_Dancing_Chris_Spedding.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "11,Pogo Dancing",
+      "artist": "Chris Spedding",
+      "has_synced": false,
+      "path": "select/06_11,Pogo_Dancing_Chris_Spedding.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pogo in Togo",
+      "artist": "United Balls",
+      "has_synced": true,
+      "path": "select/07_Pogo_in_Togo_United_Balls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pogo The Clown",
+      "artist": "Dog Fashion Disco",
+      "has_synced": false,
+      "path": "select/08_Pogo_The_Clown_Dog_Fashion_Disco.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don’t Give a Fuck (feat. Pogo)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/09_I_Don’t_Give_a_Fuck_(feat._Pogo)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Occurrence on the Border (Hopping on a Pogo-Gypsy Stick)",
+      "artist": "Gogol Bordello",
+      "has_synced": false,
+      "path": "select/10_Occurrence_on_the_Border_(Hopping_on_a_Pogo-Gypsy_Stick)_Gogol_Bordello.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disco Pogo II",
+      "artist": "Die Atzen",
+      "has_synced": false,
+      "path": "select/11_Disco_Pogo_II_Die_Atzen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disco Pogo",
+      "artist": "Die Atzen",
+      "has_synced": true,
+      "path": "select/12_Disco_Pogo_Die_Atzen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pogo!",
+      "artist": "cluppo",
+      "has_synced": true,
+      "path": "select/13_Pogo!_cluppo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "POGO!",
+      "artist": "cluppo",
+      "has_synced": false,
+      "path": "select/14_POGO!_cluppo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pogo",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/pl_01_Pogo_Digitalism.txt"
+    }
+  ]
+}
